@@ -1,0 +1,167 @@
+.mediaViewInfo {
+	--web-view-name: Sked – 1;
+	--web-view-id: Sked__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sked__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sked__1 {
+	position: absolute;
+	width: 1080px;
+	height: 2324px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Sked – 1;
+	--web-view-id: Sked__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Screen_Shot_2022-04-26_at_1054 {
+	position: absolute;
+	width: 830px;
+	height: 733px;
+	left: 125px;
+	top: 163px;
+	overflow: visible;
+}
+#Group_2132 {
+	position: absolute;
+	width: 902px;
+	height: 116px;
+	left: 91px;
+	top: 1004px;
+	overflow: visible;
+}
+#Rectangle_104 {
+	fill: rgba(93,92,85,1);
+}
+.Rectangle_104 {
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2133 {
+	position: absolute;
+	width: 902px;
+	height: 116px;
+	left: 91px;
+	top: 1161px;
+	overflow: visible;
+}
+#Rectangle_104_ {
+	fill: rgba(131,129,119,1);
+}
+.Rectangle_104_ {
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2134 {
+	position: absolute;
+	width: 902px;
+	height: 116px;
+	left: 91px;
+	top: 1319px;
+	overflow: visible;
+}
+#Rectangle_104_ba {
+	fill: rgba(200,192,177,1);
+}
+.Rectangle_104_ba {
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2135 {
+	position: absolute;
+	width: 902px;
+	height: 116px;
+	left: 91px;
+	top: 1633px;
+	overflow: visible;
+}
+#Rectangle_104_bb {
+	fill: rgba(176,164,137,1);
+}
+.Rectangle_104_bb {
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2136 {
+	position: absolute;
+	width: 902px;
+	height: 116px;
+	left: 91px;
+	top: 1791px;
+	overflow: visible;
+}
+#Rectangle_104_bc {
+	fill: rgba(214,201,167,1);
+}
+.Rectangle_104_bc {
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2137 {
+	position: absolute;
+	width: 902px;
+	height: 116px;
+	left: 91px;
+	top: 1948px;
+	overflow: visible;
+}
+#Rectangle_104_bd {
+	fill: rgba(233,221,195,1);
+}
+.Rectangle_104_bd {
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2138 {
+	position: absolute;
+	width: 902px;
+	height: 116px;
+	left: 91px;
+	top: 1476px;
+	overflow: visible;
+}
+#Rectangle_104_be {
+	fill: rgba(223,216,196,1);
+}
+.Rectangle_104_be {
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
